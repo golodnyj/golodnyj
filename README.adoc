@@ -11,10 +11,11 @@ image::golodnyj.png[]
 What I do?
 A few things:
 
-* I occasionally make https://t.me/taoplive[👨🏼‍💻 Telegram]
-* I make some vids and livestream on https://www.youtube.com/c/AntonChernousov[🎥 Youtube].
-* I produce a podcast https://pod.link/1046278525[🎧 The Art Of Programming].
-* And, obviously, push some code to https://github.com/golodnyj[🐱 Github]
+* I occasionally make https://t.me/taoplive[Telegram]
+* I publish articles on https://habr.com/ru/users/golodnyj/posts/[Habr]
+* I make some vids and livestream on https://www.youtube.com/c/AntonChernousov[Youtube].
+* I produce a podcast https://pod.link/1046278525[The Art Of Programming].
+* And, obviously, push some code to https://github.com/golodnyj[Github]
 
 You can follow me on https://twitter.com/golodnyj[🐦 Twitter] and https://instagram.com/golodnyj[🖼 Instagram], where I post about my life, food, open source, and, of course, Podcasts!
 
