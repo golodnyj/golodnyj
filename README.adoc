@@ -3,8 +3,8 @@
 Thank you for stopping by.
 My name is Anton (I also go by golodnyj) Chernousov.
 
-I'm a Developer Advocate at https://https://cloud.yandex.com[Yandex.Cloud].
-Yandex.Cloud is full-fledged cloud platform providing scalable infrastructure, storage, machine learning and development tools to build and enhance digital services and applications.
+I'm a Developer Advocate at https://https://cloud.yandex.com[Yandex Cloud].
+Yandex Cloud is full-fledged cloud platform providing scalable infrastructure, storage, machine learning and development tools to build and enhance digital services and applications.
 
 image::golodnyj.png[]
 
